@@ -16,7 +16,7 @@
         android:theme="@style/AppTheme" >
         <meta-data
             android:name="com.amap.api.v2.apikey"
-            android:value="6c8718f334368dc1391a48ba8135f21b" />
+            android:value="您的key" />
         <activity android:name=".MainActivity"
             android:screenOrientation="portrait">
             <intent-filter>

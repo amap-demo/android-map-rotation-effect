@@ -4,7 +4,7 @@
 ## 前述 ##
 - [高德官网申请Key](http://lbs.amap.com/dev/#/).
 - 阅读[参考手册](http://a.amap.com/lbs/static/unzip/Android_Map_Doc/index.html).
-- 工程基于Android 3D地图SDK和定位SDK实现
+- 工程基于Android 3D地图SDK实现
 
 ## 效果图如下 ##
 ![Screenshot](https://raw.githubusercontent.com/amap-demo/android-map-rotation-effect/master/apk/picture.png)

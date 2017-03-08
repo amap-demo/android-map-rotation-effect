@@ -7,7 +7,7 @@
 - 工程基于Android 3D地图SDK和定位SDK实现
 
 ## 效果图如下 ##
-![Screenshot](https://raw.githubusercontent.com/amap-demo/android-map-rotation-effect/master/APK/picture.png)
+![Screenshot](https://raw.githubusercontent.com/amap-demo/android-map-rotation-effect/master/apk/picture.png)
 
 ## 扫一扫安装##
 ![Screenshot]( https://raw.githubusercontent.com/amap-demo/android-map-rotation-effect/master/apk/1488940475.png)  
